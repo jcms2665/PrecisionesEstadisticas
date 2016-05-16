@@ -16,3 +16,7 @@ El taller inicia con una breve introducción sobre el esquema de muestreo de la 
 | Regresión logística |  SPSS | Stata | R |
 
 
+
+
+
+
